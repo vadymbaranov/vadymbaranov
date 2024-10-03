@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Vadym. 
-I live in Kyiv. I like music, snowboard, wake surfing, Formula 1, and coding. 2022-FSA.
+I live in Bucharest. I like music, snowboard, wake surfing, Formula 1, and coding. 2022-FSA.
 
 ### Get In Touch
 <a href="mailto:vadym.baranov@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="mailto:vadym.baranov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/vadym-baranov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
